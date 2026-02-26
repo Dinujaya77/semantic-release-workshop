@@ -43,7 +43,7 @@ router.post('/', (req, res) => {
   const { name, email, role = 'user' } = req.body;
 
   if (!name || !email) {
-    return res.status(400).json({ error: 'Name and email are required' });
+    return res.status(400).json({ error: 'Name and email are required to add a new user' });
   }
 
   const existingUser = users.find((u) => u.email === email);
