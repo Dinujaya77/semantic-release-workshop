@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/Dinujaya77/semantic-release-workshop/compare/v1.0.1...v1.1.0) (2026-02-26)
+
+
+### Features
+
+* add route test 2 ([ffab59f](https://github.com/Dinujaya77/semantic-release-workshop/commit/ffab59f21d4a18f15889ddaabf5a396bf1085719))
+
 ## [1.0.1](https://github.com/Dinujaya77/semantic-release-workshop/compare/v1.0.0...v1.0.1) (2026-02-26)
 
 
