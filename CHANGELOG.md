@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/Dinujaya77/semantic-release-workshop/compare/v1.0.0...v1.0.1) (2026-02-26)
+
+
+### Bug Fixes
+
+* update existing user error message ([2cdb132](https://github.com/Dinujaya77/semantic-release-workshop/commit/2cdb1321aea519e14b23598cf8224bb9568f5c02))
+
 # 1.0.0 (2026-02-26)
 
 
