@@ -48,7 +48,7 @@ router.post('/', (req, res) => {
 
   const existingUser = users.find((u) => u.email === email);
   if (existingUser) {
-    return res.status(409).json({ error: 'A user with this email already exists' });
+    return res.status(409).json({ error: 'A user with this email already exists in DB' });
   }
 
   const newUser = { id: nextId++, name, email, role };
